@@ -1,0 +1,12 @@
+AnswerOptions,AnswerTypeID,ScaleType,Description
+Open-ended,1,Likert,Extracted scale type from provided values
+"Open-ended (1=man, 2=woman)",2,Likert,Extracted scale type from provided values
+"Yes=1, No=2",3,Likert,Extracted scale type from provided values
+"1=None of the time, 2=Rarely, 3=Some of the time, 4=Often, 5=All of the time",4,Likert,Extracted scale type from provided values
+"1=Not very true of me, 2, 3, 4, 5=Very true of me",5,Likert,Extracted scale type from provided values
+"1=Excellent, 2=Very good, 3=Good, 4=Fair, 5=Poor",6,Likert,Extracted scale type from provided values
+"1=Disagree strongly, 2=Disagree a little, 3=Neither agree nor disagree, 4=Agree a little, 5=Agree strongly",7,Likert,Extracted scale type from provided values
+"1=I strongly disagree, 2=I disagree, 3=I slightly disagree, 4=I neither agree nor disagree, 5=I slightly agree, 6=I agree, 7=I strongly agree",8,Likert,Extracted scale type from provided values
+"1=Yes, 2=More or less, 3=No",9,Likert,Extracted scale type from provided values
+"1=Not at all, 2, 3, 4, 5, 6, 7=Completely",10,Likert,Extracted scale type from provided values
+"1=Not true at all, 2=Hardly true, 3=Moderately true, 4=Exactly true",11,Likert,Extracted scale type from provided values

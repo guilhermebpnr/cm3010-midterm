@@ -1,0 +1,43 @@
+QuestionID,Section,Code,Item,AnswerTypeID
+1,demographics,D_Age,Age,1
+2,demographics,D_Nation,Nationality,1
+3,demographics,D_hours,How many hours on average do you currently spend in nature per week?,1
+4,demographics,D_activities,What activities in nature do you participate in?,1
+5,demographics,D_Gender,Gender,2
+6,demographics,D_allot,Do you currently own/work on an allotment site?,3
+7,demographics,D_group,Do you currently participate in an allotment group/project?,3
+8,Mental Health,MH_1,I’ve been feeling optimistic about the future,4
+9,Mental Health,MH_2,I’ve been feeling useful,4
+10,Mental Health,MH_3,I’ve been feeling relaxed,4
+11,Mental Health,MH_4,I’ve been dealing with problems well,4
+12,Mental Health,MH_5,I’ve been thinking clearly,4
+13,Mental Health,MH_6,I’ve been feeling close to other people,4
+14,Mental Health,MH_7,I’ve been able to make up my own mind about things,4
+15,Self-Esteem,SE_1,I have high self-esteem,5
+16,Physical health,PH_1,"In general, how would you say your health is?",6
+17,Physical health,PH_2,"Compared to others your age, would you say your health is...?",6
+18,Connectedness to nature,Nat_1,"My ideal vacation spot would be a remote, wilderness area",7
+19,Connectedness to nature,Nat_2,I always think about how my actions affect the environment.,7
+20,Connectedness to nature,Nat_3,My connection to nature and the environment is a part of my spirituality.,7
+21,Connectedness to nature,Nat_4,I take notice of wildlife wherever I am.,7
+22,Connectedness to nature,Nat_5,My relationship to nature is an important part of who I am.,7
+23,Connectedness to nature,Nat_6,I feel very connected to all living things and the earth.,7
+24,Social Identity,SocID_1,I feel a bond within my (group),8
+25,Social Identity,SocID_2,I feel similar to the other members of my (group),8
+26,Social Identity,SocID_3,I have a sense of belonging to my (group),8
+27,Social Identity,SocID_4,I have a lot in common with the members of my (group),8
+28,Loneliness,Lon_1,I experience a general sense of emptiness,9
+29,Loneliness,Lon_2,There are plenty of people I can rely on when I have problems,9
+30,Loneliness,Lon_3,There are many people I can trust completely,9
+31,Loneliness,Lon_4,I miss having people around,9
+32,Loneliness,Lon_5,There are enough people I feel close to,9
+33,Loneliness,Lon_6,I often feel rejected,9
+34,Social Support,SocSup_1,Do you get the emotional support you need from other people?,10
+35,Social Support,SocSup_2,Do you get the help you need from other people?,10
+36,Social Support,SocSup_3,Do you get the resources you need from other people?,10
+37,Social Support,SocSup_4,Do you get the advice you need from other people?,10
+38,Self-Efficacy,SEff_1,I can remain calm when facing difficulties because I can rely on my coping abilities,11
+39,Self-Efficacy,SEff_2,I am confident that I could deal efficiently with unexpected events,11
+40,Self-Efficacy,SEff_3,I can always manage to solve difficult problems if I try hard enough,11
+41,Self-Efficacy,SEff_4,"If I am in trouble, I can usually think of a solution",11
+42,Self-Efficacy,SEff_5,"If someone opposes me, I can find the means and ways to get what I want",11
